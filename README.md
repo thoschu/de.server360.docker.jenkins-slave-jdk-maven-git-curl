@@ -13,7 +13,7 @@ Jenkins slave based on evarga/jenkins-slave image with:
 
 Note: sylinks /opt/jdk/latest and /usr/local/apache-maven exist and point to respective folders.
 
-https://hub.docker.com/r/thoschu/jenkins-slave-jdk-maven-git-curl/
+[DockerHub - jenkins-slave-jdk-maven-git-curl](https://hub.docker.com/r/thoschu/jenkins-slave-jdk-maven-git-curl/ "https://hub.docker.com")
 
 ![Jenkins Plugin Config](https://image.ibb.co/kpsqRw/jenkins_config.png "Pluginconfig")
 ![Jenkins Plugin Config SSH](https://image.ibb.co/mMFumw/jenkins_plugin_user_password.png "Pluginconfig SSH")
