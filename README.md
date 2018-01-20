@@ -1,4 +1,4 @@
-# de.server360.docker.jenkins-slave-jdk-maven-git-curl
+# io.server360.docker.jenkins-slave-jdk-maven-git-curl
 Docker jenkins slave based on evarga/jenkins-slave with oracle jdk8, maven 3, git and curl preinstalled.
 
 [![](https://images.microbadger.com/badges/image/thoschu/jenkins-slave-jdk-maven-git-curl.svg)](https://microbadger.com/images/thoschu/jenkins-slave-jdk-maven-git-curl "Get your own image badge on microbadger.com")
