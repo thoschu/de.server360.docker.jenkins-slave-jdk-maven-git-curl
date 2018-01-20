@@ -11,3 +11,5 @@ Jenkins slave based on evarga/jenkins-slave image with:
 - curl 7.35.0
 
 Note: sylinks /opt/jdk/latest and /usr/local/apache-maven exist and point to respective folders.
+
+https://hub.docker.com/r/thoschu/jenkins-slave-jdk-maven-git-curl/
