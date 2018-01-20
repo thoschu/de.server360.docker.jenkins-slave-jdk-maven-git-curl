@@ -15,6 +15,6 @@ Note: sylinks /opt/jdk/latest and /usr/local/apache-maven exist and point to res
 
 https://hub.docker.com/r/thoschu/jenkins-slave-jdk-maven-git-curl/
 
-![alt Jenkins Plugin Config](https://ibb.co/ghx1Yb "Jenkins Plugin Config")
+![Jenkins Plugin Config](https://image.ibb.co/kpsqRw/jenkins_config.png "Pluginconfig")
 
-![alt Jenkins Job Config](https://ibb.co/i0En6w "Jenkins Job Config")
+![Jenkins Job Config](https://image.ibb.co/nzRdDb/jenkins_job_config.png "Jobconfig")
