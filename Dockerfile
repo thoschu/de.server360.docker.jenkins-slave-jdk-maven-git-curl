@@ -1,5 +1,5 @@
 FROM evarga/jenkins-slave
-MAINTAINER thomasschulte@hotmail.com
+MAINTAINER Tom S. - thomasschulte@hotmail.com
 
 # remove openjdk
 RUN apt remove -y openjdk*
