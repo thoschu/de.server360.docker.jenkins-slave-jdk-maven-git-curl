@@ -2,6 +2,7 @@
 Docker jenkins slave based on evarga/jenkins-slave with oracle jdk8, maven 3, git and curl preinstalled.
 
 [![](https://images.microbadger.com/badges/image/thoschu/jenkins-slave-jdk-maven-git-curl.svg)](https://microbadger.com/images/thoschu/jenkins-slave-jdk-maven-git-curl "Get your own image badge on microbadger.com")
+[![](https://images.microbadger.com/badges/version/thoschu/jenkins-slave-jdk-maven-git-curl.svg)](https://microbadger.com/images/thoschu/jenkins-slave-jdk-maven-git-curl "Get your own version badge on microbadger.com")
 
 Jenkins slave based on evarga/jenkins-slave image with:
 
